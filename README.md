@@ -1,2 +1,2 @@
 
-[Patika.dev](www.patika.dev)
+[Patika.dev](https://app.patika.dev/sibgat)
